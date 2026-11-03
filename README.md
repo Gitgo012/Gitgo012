@@ -79,9 +79,9 @@ flowchart LR
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**NeoBank**](link) | Metadata-driven incremental pipeline producing Customer 360, branch performance and risk summaries | Databricks, PySpark, Delta Lake |
-| [**QuickSight Retail**](link) | Salesforce, PostgreSQL and CSV sources into a star schema with a Unity Catalog metric view | Databricks, SQL, Unity Catalog |
-| [**TinyML Anomaly Detector**](link) | Autoencoder on ECG5000 running within the memory limits of an Arduino Nano BLE Sense Rev 2 | Python, TensorFlow, TinyML |
+| [**NeoBank**](https://github.com/Gitgo012/NeoBank_Databricks) | Metadata-driven incremental pipeline producing Customer 360, branch performance and risk summaries | Databricks, PySpark, Delta Lake |
+| [**QuickSight Retail**](https://github.com/Gitgo012/QuickSight_Retail) | Salesforce, PostgreSQL and CSV sources into a star schema with a Unity Catalog metric view | Databricks, SQL, Unity Catalog |
+| [**TinyML Anomaly Detector**](https://github.com/Gitgo012/Research-Project) | Autoencoder on ECG5000 running within the memory limits of an Arduino Nano BLE Sense Rev 2 | Python, TensorFlow, TinyML |
 
 ### 📫 Let's talk
 Hiring for data engineering or data science? I'd love to hear about it.
