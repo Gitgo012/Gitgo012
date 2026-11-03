@@ -87,4 +87,11 @@ flowchart LR
 ### 📫 Let's talk
 Hiring for data engineering or data science? I'd love to hear about it.
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-kuletha)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkuletha05@gmail.com)
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
