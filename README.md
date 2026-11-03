@@ -7,7 +7,6 @@
 
 ![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Engineering%20%7C%20Data%20Science-2ea44f?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--kuletha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-kuletha)
-[![Email](https://img.shields.io/badge/Email-yashkuletha05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkuletha05@gmail.com)
 
 </div>
 
