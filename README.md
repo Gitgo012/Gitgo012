@@ -71,7 +71,7 @@ flowchart LR
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
 ![RAGAS](https://img.shields.io/badge/RAGAS-faithfulness%20%7C%20relevancy-0E7C66?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-336791?style=flat-square)
 
 </details>
 
